@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "app.vercel.excite_pwa.twa",
+                   "sha256_cert_fingerprints": ["1B:F0:1B:43:13:8A:9F:C6:BA:28:71:75:B6:F6:3D:30:6D:A6:3B:68:71:58:1E:1A:12:7C:13:50:EC:4D:A1:D4"] }
+    }]

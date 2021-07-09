@@ -1,12 +1,12 @@
 {
-  "name": "Excite App",
-  "short_name": "Excite Mobile",
-  "theme_color": "#ffffff",
-  "background_color": "#004740",
-  "display": "fullscreen",
   "orientation": "portrait",
+  "theme_color": "#A7CC48",
+  "background_color": "#2C2D3F",
+  "display": "fullscreen",
   "scope": "/",
   "start_url": "/",
+  "name": "Excite Mobile Application",
+  "short_name": "Excite App",
   "icons": [
     {
       "src": "icons/icon-72x72.png",

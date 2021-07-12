@@ -4,11 +4,9 @@ export default function Index() {
     return (
         <section>
             <div className={styles.top}>
-                <div className='container'>
-                    Top
-                </div>
-            </div>
             Landing Page
+            </div>
+         
         </section>
     )
 }

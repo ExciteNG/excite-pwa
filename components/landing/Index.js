@@ -5,9 +5,8 @@ export default function Index() {
         <section>
             <div className={styles.top}>
                 <div className='container'>
-                Top
+                    Top
                 </div>
-               
             </div>
             Landing Page
         </section>
